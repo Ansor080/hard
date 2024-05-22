@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.lupa {
+    background-image: url(./img/lupa.png);
+}
+
+.sumka {
+    background-image: url(./img/sumka.png);
+}
+
